@@ -1,13 +1,3 @@
-# 학생관리 시스템 - Great
-
-Github: https://github.com/J2KB/J2KB-7th-Unicon-wldngkr-backend
-담당 Skills & 사용 Libraries: Git&GitHub, MariaDB, Spring, Spring Boot, Spring JDBC Template
-정렬기준: 0
-진행 기간: 2022/03/13 → 2022/10/22
-팀 구성: 팀프로젝트(5인)
-프로젝트 배포 링크: https://greaplus.netlify.app/
-한 줄 소개: 소규모 학원 선생님을 위한 학생 관리 시스템
-
 # Great : 그레잇, 학생 성적 관리 시스템
 
 프로젝트 그레잇은 소규모 학원, 혹은 과외 선생님들이 열정을 부어 지도하는 학생들의 성적관리를 한층 더 편하게 만들어주기 위해 시작되었습니다. 
